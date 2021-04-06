@@ -1,1 +1,1 @@
-# examples_code
+# примеры кодов на PHP, Javascript и Delphi

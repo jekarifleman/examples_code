@@ -1,1 +1,1 @@
-# примеры кодов на PHP Javascript
+# примеры кодов на PHP и Javascript
